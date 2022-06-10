@@ -101,6 +101,5 @@
 * Заливаем в test и разворачиваем уже агрегированное с другими фичами изменения на схему тестирования
 
 //и картинка 2
-image::Z:\m\maxresdefault.jpg[]
 image::https://github.com/AliceMihailets/Mihailets_AM_8I7A/blob/master/image_2021-03-22_23-20-26.png?raw=true[]
 image::https://img.freepik.com/free-photo/cool-geometric-triangular-figure-in-a-neon-laser-light-great-for-backgrounds-and-wallpapers_181624-9331.jpg?w=2000[alt]
